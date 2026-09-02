@@ -35,4 +35,4 @@ This project analyzes e-commerce sales and customer data using MySQL to generate
 The project helps identify top-performing products, high-value customers, revenue trends, category performance, payment preferences, and discount impact.
 
 ## 👩‍💻 Author
-Priyadarshani Biswal
+Debashish Kanhar
